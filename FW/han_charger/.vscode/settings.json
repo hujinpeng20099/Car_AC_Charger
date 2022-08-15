@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "littlefs.h": "c",
+        "fs.h": "c",
+        "memory": "cpp"
+    }
+}
